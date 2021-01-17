@@ -1,13 +1,6 @@
 import React, { useState } from "react";
 import { useHistory } from "react-router-dom";
-import {
-  Modal,
-  Button,
-  FormControl,
-  Container,
-  Row,
-  Col,
-} from "react-bootstrap";
+import { Modal, Button, FormControl } from "react-bootstrap";
 import "../styles/styles.css";
 import AddIcon from "./AddIcon";
 import { v4 as uuidv4 } from "uuid";
