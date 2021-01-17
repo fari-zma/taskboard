@@ -1,0 +1,62 @@
+/*** PAGE NOT FOUND ***/
+.notfound {
+  height: 100vh;
+  background-image: url(https://images.pexels.com/photos/262488/pexels-photo-262488.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=1000);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.notfound > .text {
+  background-color: white;
+  padding: 15px;
+  font-size: 25pt;
+}
+
+/*** SIGN-IN & SIGN-UP ***/
+.signin {
+  height: 100vh;
+  background-image: url(https://source.unsplash.com/random);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.link:hover {
+  cursor: pointer;
+}
+
+/*** HOME PAGE ***/
+.tasks {
+  height: auto;
+  min-height: 100vh;
+  background-color: rgba(19, 18, 18, 0.712);
+}
+
+.profile-top > img {
+  width: 50px;
+  height: 50px;
+  object-position: center; /* Center the image within the element */
+}
+
+.add-btn {
+  background-color: transparent;
+  border: 0px;
+}
+
+.add-button {
+  position: fixed;
+  bottom: 50px;
+  right: 50px;
+}
+
+/*** TASK ***/
+.task {
+  border-width: 5px;
+  border: white;
+  border-style: solid;
+  padding: 5px;
+}
