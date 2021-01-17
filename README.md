@@ -1,6 +1,6 @@
 # TASKBOARD
 
-    * There are three pages:
+    * There are fpur pages:
         * Home page (/)
         * SignIn Page (/signin)
         * SignUp Page (/signup)
@@ -31,4 +31,6 @@
 <img src='images/signin.png' width='600' height='250'>
 <img src='images/signup.png' width='600' height='250'>
 <img src='images/homepage.png' width='600' height='250'>
+<img src='images/addlist.png' width='600' height='250'>
+<img src='images/addtask.png' width='600' height='250'>
 <img src='images/pagenotfound.png' width='600' height='250'>
