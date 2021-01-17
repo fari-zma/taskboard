@@ -28,7 +28,7 @@
 
 # URL LINK
 
-    [Click here](https://taskboard-fari.netlify.app/)
+[Click here](https://taskboard-fari.netlify.app/)
 
 # Screenshots
 
