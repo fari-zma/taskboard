@@ -1,11 +1,10 @@
 # TASKBOARD
 
-There are three pages:
-_ Home page (/)
-_ SignIn Page (/signin)
-_ SignUp Page (/signup)
-_ PageNotFound (\*)
-
+    * There are three pages:
+        * Home page (/)
+        * SignIn Page (/signin)
+        * SignUp Page (/signup)
+        * PageNotFound (\*)
     * All pages are responsive and in dark-mode.
 
 ## Sign Up
@@ -29,7 +28,7 @@ _ PageNotFound (\*)
 
 # Screenshots
 
-<img src='images/signin.png' width='400' height='250'>
-<img src='images/signup.png' width='400' height='250'>
-<img src='images/homepage.png' width='400' height='250'>
-<img src='images/pagenotfound.png' width='400' height='250'>
+<img src='images/signin.png' width='600' height='250'>
+<img src='images/signup.png' width='600' height='250'>
+<img src='images/homepage.png' width='600' height='250'>
+<img src='images/pagenotfound.png' width='600' height='250'>
